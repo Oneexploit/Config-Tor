@@ -38,7 +38,7 @@ With this toolkit, you can quickly install Tor, check its status, repair common 
 
 ### 1. Clone or download:
 ```bash
-git clone https://github.com/YourUsername/tor-management-toolkit.git
+git clone https://github.com/Oneexploit/Config-Tor.git
 cd tor-management-toolkit
 ````
 
