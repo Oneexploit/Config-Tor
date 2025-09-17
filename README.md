@@ -51,7 +51,7 @@ chmod +x install.sh
 ### 3. Run:
 
 ```bash
-./install.sh
+sudo ./install.sh
 ```
 
 ---
